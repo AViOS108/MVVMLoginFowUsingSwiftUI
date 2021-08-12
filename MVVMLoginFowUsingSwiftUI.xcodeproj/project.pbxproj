@@ -178,7 +178,6 @@
 			isa = PBXGroup;
 			children = (
 				1A855C2126C110FE005DC858 /* Validations */,
-				1A9F263E26C24A870063D9F7 /* NetworkUtility.swift */,
 				1AA02D8826C4E380000E5A64 /* DemoUrls.swift */,
 			);
 			path = GeneralUtitlity;
@@ -203,6 +202,7 @@
 		1A855C2326C11123005DC858 /* NetworkLayer */ = {
 			isa = PBXGroup;
 			children = (
+				1A9F263E26C24A870063D9F7 /* NetworkUtility.swift */,
 				1A855C2C26C1687A005DC858 /* LoginNetworklayer.swift */,
 			);
 			path = NetworkLayer;
